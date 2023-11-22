@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 /**
  * Creates a number to string conversion function with a given base.
